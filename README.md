@@ -47,7 +47,7 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-0/150 (0%) | 0/157 (0%) | 0/200 (0%) | 0/507 (0%)
+0/150 (0%) | 1/157 (1%) | 0/200 (0%) | 1/507 (0%)
 
 ## Rozwiązane zadania wg edycji
 
@@ -61,7 +61,7 @@ V | 0/16 (0%) | XV | 0/16 (0%) | XXV | 0/18 (0%) |  |
 VI | 0/15 (0%) | XVI | 0/16 (0%) | XXVI | 0/17 (0%) |  | 
 VII | 0/15 (0%) | XVII | 0/17 (0%) | XXVII | 0/10 (0%) |  | 
 VIII | 0/15 (0%) | XVIII | 0/17 (0%) | XXVIII | 0/17 (0%) |  | 
-IX | 0/15 (0%) | XIX | 0/17 (0%) | XXIX | 0/17 (0%) |  | 
+IX | 1/15 (7%) | XIX | 0/17 (0%) | XXIX | 0/17 (0%) |  | 
 X | 0/16 (0%) | XX | 0/17 (0%) | XXX | 0/17 (0%) |  |
 
 
@@ -115,7 +115,7 @@ V |   |   |   |   |
 VI |   |   |   |   |  
 VII |   |   |   |   |  
 VIII |   |   |   |   |  
-IX |   |   |   |   |  
+IX | izo ✅ |   |   |   |  
 X |   |   |   |   |  
 XI |   |   |   |   |  
 XII |   |   |   |   |  
