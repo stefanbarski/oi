@@ -1,4 +1,11 @@
 {
+    "viii_etap1_ant": {
+        "edycja": 8,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "ant",
+        "punkty": 100
+    },
     "ix_etap2_probne_izo": {
         "edycja": 9,
         "etap": 2,
