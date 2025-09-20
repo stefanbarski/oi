@@ -27,6 +27,20 @@
         "nazwa": "izo",
         "punkty": 100
     },
+    "xiii_etap1_kra": {
+        "edycja": 13,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "kra",
+        "punkty": 100
+    },
+    "xv_etap1_pla": {
+        "edycja": 15,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "pla",
+        "punkty": 100
+    },
     "xviii_etap1_liz": {
         "edycja": 18,
         "etap": 1,
@@ -34,11 +48,25 @@
         "nazwa": "liz",
         "punkty": 100
     },
+    "xxxii_etap1_wal": {
+        "edycja": 32,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "wal",
+        "punkty": 100
+    },
     "xxxii_etap1_usu": {
         "edycja": 32,
         "etap": 1,
         "dzien": 0,
         "nazwa": "usu",
+        "punkty": 100
+    },
+    "xxxii_etap1_zam": {
+        "edycja": 32,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "zam",
         "punkty": 100
     }
 }

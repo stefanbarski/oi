@@ -47,17 +47,17 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-3/150 (2%) | 1/157 (1%) | 2/200 (1%) | 6/507 (1%)
+7/150 (5%) | 1/157 (1%) | 2/200 (1%) | 10/507 (2%)
 
 ## Rozwiązane zadania wg edycji
 
 Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 :--- | ---: | :--- | ---: | :--- | ---: | :--- | ---:
 I | 0/10 (0%) | XI | 0/16 (0%) | XXI | 0/17 (0%) | XXXI | 0/17 (0%)
-II | 0/14 (0%) | XII | 0/17 (0%) | XXII | 0/17 (0%) | XXXII | 1/18 (6%)
-III | 0/13 (0%) | XIII | 0/16 (0%) | XXIII | 0/17 (0%) |  | 
+II | 0/14 (0%) | XII | 0/17 (0%) | XXII | 0/17 (0%) | XXXII | 3/18 (17%)
+III | 0/13 (0%) | XIII | 1/16 (6%) | XXIII | 0/17 (0%) |  | 
 IV | 1/16 (6%) | XIV | 0/16 (0%) | XXIV | 0/16 (0%) |  | 
-V | 0/16 (0%) | XV | 0/16 (0%) | XXV | 0/18 (0%) |  | 
+V | 0/16 (0%) | XV | 1/16 (6%) | XXV | 0/18 (0%) |  | 
 VI | 0/15 (0%) | XVI | 0/16 (0%) | XXVI | 0/17 (0%) |  | 
 VII | 0/15 (0%) | XVII | 0/17 (0%) | XXVII | 0/10 (0%) |  | 
 VIII | 1/15 (7%) | XVIII | 1/17 (6%) | XXVIII | 0/17 (0%) |  | 
@@ -81,9 +81,9 @@ IX |   |   |   |   | — | —
 X |   |   |   |   |   | —
 XI |   |   |   |   |   | —
 XII |   |   |   |   |   | —
-XIII |   |   |   |   |   | —
+XIII | kra ✅ |   |   |   |   | —
 XIV |   |   |   |   |   | —
-XV |   |   |   |   |   | —
+XV | pla ✅ |   |   |   |   | —
 XVI |   |   |   |   |   | —
 XVII |   |   |   |   |   | —
 XVIII | liz ✅ |   |   |   |   | —
@@ -100,7 +100,7 @@ XXVIII |   |   |   |   |   | —
 XXIX |   |   |   |   |   | —
 XXX |   |   |   |   |   | —
 XXXI |   |   |   |   |   | —
-XXXII | usu ✅ |   |   |   |   |
+XXXII | wal ✅ | usu ✅ | zam ✅ |   |   |
 
 
 ## Rozwiązane zadania z II etapu
