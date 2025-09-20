@@ -47,7 +47,7 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-2/150 (1%) | 1/157 (1%) | 0/200 (0%) | 3/507 (1%)
+3/150 (2%) | 1/157 (1%) | 2/200 (1%) | 6/507 (1%)
 
 ## Rozwiązane zadania wg edycji
 
@@ -56,12 +56,12 @@ Edycja | Wynik | Edycja | Wynik | Edycja | Wynik | Edycja | Wynik
 I | 0/10 (0%) | XI | 0/16 (0%) | XXI | 0/17 (0%) | XXXI | 0/17 (0%)
 II | 0/14 (0%) | XII | 0/17 (0%) | XXII | 0/17 (0%) | XXXII | 1/18 (6%)
 III | 0/13 (0%) | XIII | 0/16 (0%) | XXIII | 0/17 (0%) |  | 
-IV | 0/16 (0%) | XIV | 0/16 (0%) | XXIV | 0/16 (0%) |  | 
+IV | 1/16 (6%) | XIV | 0/16 (0%) | XXIV | 0/16 (0%) |  | 
 V | 0/16 (0%) | XV | 0/16 (0%) | XXV | 0/18 (0%) |  | 
 VI | 0/15 (0%) | XVI | 0/16 (0%) | XXVI | 0/17 (0%) |  | 
 VII | 0/15 (0%) | XVII | 0/17 (0%) | XXVII | 0/10 (0%) |  | 
-VIII | 1/15 (7%) | XVIII | 0/17 (0%) | XXVIII | 0/17 (0%) |  | 
-IX | 1/15 (7%) | XIX | 0/17 (0%) | XXIX | 0/17 (0%) |  | 
+VIII | 1/15 (7%) | XVIII | 1/17 (6%) | XXVIII | 0/17 (0%) |  | 
+IX | 2/15 (13%) | XIX | 0/17 (0%) | XXIX | 0/17 (0%) |  | 
 X | 0/16 (0%) | XX | 0/17 (0%) | XXX | 0/17 (0%) |  |
 
 
@@ -86,7 +86,7 @@ XIV |   |   |   |   |   | —
 XV |   |   |   |   |   | —
 XVI |   |   |   |   |   | —
 XVII |   |   |   |   |   | —
-XVIII |   |   |   |   |   | —
+XVIII | liz ✅ |   |   |   |   | —
 XIX |   |   |   |   |   | —
 XX |   |   |   |   |   | —
 XXI |   |   |   |   |   | —
@@ -148,12 +148,12 @@ Edycja | Dzień próbny, zad. 1 | Dzień próbny, zad. 2 | Dzień 1 - zad. 1 | D
 I |   | — |   |   | — |   | — | —
 II |   | — |   |   | — |   |   | —
 III |   | — |   |   | — |   |   | —
-IV |   | — |   |   |   |   |   | —
+IV | tro ✅ | — |   |   |   |   |   | —
 V |   | — |   |   |   |   |   |  
 VI |   | — |   |   | — |   |   |  
 VII |   | — |   |   | — |   |   |  
 VIII |   | — |   |   | — |   |   |  
-IX |   | — |   |   | — |   |   |  
+IX | min ✅ | — |   |   | — |   |   |  
 X |   | — |   |   | — |   |   |  
 XI |   | — |   |   |   |   |   | —
 XII |   | — |   |   |   |   |   |  
