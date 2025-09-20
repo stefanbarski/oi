@@ -12,5 +12,12 @@
         "dzien": 0,
         "nazwa": "izo",
         "punkty": 100
+    },
+    "xxxii_etap1_usu": {
+        "edycja": 32,
+        "etap": 1,
+        "dzien": 0,
+        "nazwa": "usu",
+        "punkty": 100
     }
 }
