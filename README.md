@@ -47,7 +47,7 @@ Po wbiciu jakiegoś zadania, np 'Rycerz:wq' z pierwszego dnia II etapu XXXI OI:
 
 Etap I | Etap II | Etap III | Łącznie
 :---: | :---: | :---: | :---:
-7/150 (5%) | 1/157 (1%) | 2/200 (1%) | 10/507 (2%)
+8/150 (5%) | 1/157 (1%) | 2/200 (1%) | 11/507 (2%)
 
 ## Rozwiązane zadania wg edycji
 
@@ -60,7 +60,7 @@ IV | 1/16 (6%) | XIV | 0/16 (0%) | XXIV | 0/16 (0%) |  |
 V | 0/16 (0%) | XV | 1/16 (6%) | XXV | 0/18 (0%) |  | 
 VI | 0/15 (0%) | XVI | 0/16 (0%) | XXVI | 0/17 (0%) |  | 
 VII | 0/15 (0%) | XVII | 0/17 (0%) | XXVII | 0/10 (0%) |  | 
-VIII | 1/15 (7%) | XVIII | 1/17 (6%) | XXVIII | 0/17 (0%) |  | 
+VIII | 2/15 (13%) | XVIII | 1/17 (6%) | XXVIII | 0/17 (0%) |  | 
 IX | 2/15 (13%) | XIX | 0/17 (0%) | XXIX | 0/17 (0%) |  | 
 X | 0/16 (0%) | XX | 0/17 (0%) | XXX | 0/17 (0%) |  |
 
@@ -76,7 +76,7 @@ IV |   |   |   |   | — | —
 V |   |   |   |   | — | —
 VI |   |   |   |   | — | —
 VII |   |   |   |   | — | —
-VIII | ant ✅ |   |   |   | — | —
+VIII | ant ✅ | map ✅ |   |   | — | —
 IX |   |   |   |   | — | —
 X |   |   |   |   |   | —
 XI |   |   |   |   |   | —
